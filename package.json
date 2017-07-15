@@ -1,0 +1,24 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "a flashcard app",
+  "main": "basicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LerithaPride1/flashcard-generator.git"
+  },
+  "author": "Leritha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LerithaPride1/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/LerithaPride1/flashcard-generator#readme",
+  "keywords": [],
+  "dependencies": {
+    "inquirer": "^3.2.0"
+  },
+  "devDependencies": {}
+}
