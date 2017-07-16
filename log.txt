@@ -1,0 +1,27 @@
+[
+  {
+    "front": "Whose 2013 world tour was called The Mrs Carter Show?",
+    "back": "Beyonce"
+  },
+  
+  {
+    "front": "Which amendment of the US Constitution is the right to bear arms?",
+    "back": "second amendment"
+  },
+    
+  {
+      "front": "Who was the winner of the ESPY best male athlete 2017?",
+      "back": "Russell Westbrook"
+  },
+
+  {
+    "front": "Who was president during World War II",
+    "back": "Franklin Roosevelt"
+  },
+
+  {
+    "front": "What is the medical term for kneecap",
+    "back": "patella"    
+  }
+
+  ]

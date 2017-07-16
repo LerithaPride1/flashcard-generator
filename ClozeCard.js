@@ -1,13 +1,17 @@
-var ClozeCard = function (front, back) {
-	this.text = text;
+function ClozeCard(front, back) {
+	this.text = text.cloze;
 	this.cloze = cloze;
-};
 
+};
+	// prototype of ClozeCard to return the question missing the cloze
 	function ClozeCardPrototype(){
-		this.clozeDelete = function() {
+
+		this.clozeRemove = function() {
 			return ('...' + this.text);
+
 		};
 	};
 
 ClozeCard.prototype = new ClozeCardPrototype();
+
 module.exports = ClozeCard;
